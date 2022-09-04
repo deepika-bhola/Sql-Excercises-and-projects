@@ -6,7 +6,7 @@ SQL excercises and projects.
 Case Study Questions<br>
 Each of the following case study questions can be answered using a single SQL statement:
 
-What is the total amount each customer spent at the restaurant?
+What is the total amount each customer spent at the restaurant?<br>
 How many days has each customer visited the restaurant?
 What was the first item from the menu purchased by each customer?
 What is the most purchased item on the menu and how many times was it purchased by all customers?
