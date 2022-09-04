@@ -1,5 +1,8 @@
 # Sql-Excercises-and-projects
 SQL excercises and projects.
+
+
+
                                                                 Introduction
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
 
@@ -17,5 +20,4 @@ Danny has shared with you 3 key datasets for this case study:
 sales
 menu
 members
-You can inspect the entity relationship diagram and example data below.
-                          ![er](https://user-images.githubusercontent.com/102585298/188311691-0f4cdfce-5d36-4fa2-9eaa-a5d33f91ebff.png)
+
