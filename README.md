@@ -3,7 +3,7 @@ SQL excercises and projects.
 
 
 
-Case Study Questions
+Case Study Questions<br>
 Each of the following case study questions can be answered using a single SQL statement:
 
 What is the total amount each customer spent at the restaurant?
